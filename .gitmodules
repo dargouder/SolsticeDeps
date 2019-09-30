@@ -1,3 +1,6 @@
 [submodule "embree"]
 	path = embree
 	url = https://github.com/dargouder/embree.git
+[submodule "pbrt-parser"]
+	path = pbrt-parser
+	url = https://github.com/dargouder/pbrt-parser.git
